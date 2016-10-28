@@ -1,5 +1,8 @@
 ﻿namespace LEARNING_CSHARP
 {
+	/// <summary>
+	/// Stack
+	/// </summary>
 	public class Stack
 	{
 		//public int Index = -1;
